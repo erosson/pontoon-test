@@ -1,38 +1,41 @@
+### All translated Mapwatch text
+
+
 # i18n with https://projectfluent.org/
 # the .properties file extension gives my editor decent syntax highlighting
 
 title = Cartemontre (? I don't know french)
-subtitle = - just testing pontoon sync
 
-### Navigation ###
+## Navigation
 
+nav-timer = Horloge?
 
-### Setup ###
-
-
-### Changelog ###
+## Setup
 
 
-### Settings ###
+## Changelog
 
 
-### Timer ###
+## Settings
 
 
-### History ###
+## Timer
 
 
-### Maps ###
+## History
 
 
-### Encounters ###
+## Maps
 
 
-### Export TSV Spreadsheet ###
+## Encounters
 
 
-### Export Google Sheets ###
+## Export TSV Spreadsheet
 
 
-### Shared utilities ###
+## Export Google Sheets
+
+
+## Shared utilities
 
