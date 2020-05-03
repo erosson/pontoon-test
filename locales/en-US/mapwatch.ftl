@@ -1,3 +1,5 @@
+### All translated Mapwatch text
+
 # i18n with https://projectfluent.org/
 # the .properties file extension gives my editor decent syntax highlighting
 
@@ -6,7 +8,7 @@ subtitle = - automatically time your Path of Exile map clears
 
 -league = Delirium
 
-### Navigation ###
+## Navigation
 
 nav-timer = Timer
 nav-history = History
@@ -15,7 +17,7 @@ nav-encounters = Encounters
 nav-changelog = Changelog
 nav-settings = Settings
 
-### Setup ###
+## Setup
 
 setup-intro1 =
   Give me your
@@ -88,7 +90,7 @@ setup-badbrowser =
   <a target="_blank" href="https://www.google.com/chrome/">
     Chrome</a>.
 
-### Changelog ###
+## Changelog
 
 changelog-opensource =
   Mapwatch is open source!
@@ -113,7 +115,7 @@ changelog-app =
 changelog-rss = RSS notifications
 changelog-email = Email notifications
 
-### Settings ###
+## Settings
 
 settings-volume = Speech volume:
 settings-reset = Analyze another Client.txt log file
@@ -126,7 +128,7 @@ settings-locale-entry-default = Default
 settings-locale-entry-en-US = English (US)
 settings-locale-entry-test = Test
 
-### Timer ###
+## Timer
 
 timer-currentmap = Mapping in:
 timer-currentmap-none = Not mapping
@@ -139,7 +141,7 @@ timer-link-overlay = Overlay
 timer-filter-earlier = Hide earlier maps
 timer-filter-snapshot = Snapshot history
 
-### History ###
+## History
 
 history-page-first = First
 history-page-prev = Prev
@@ -214,7 +216,7 @@ history-conqueror-name = {$conqueror ->
 history-conqueror-taunt = {history-conqueror-name}: Taunt {$taunt}
 history-conqueror-fight = {history-conqueror-name}: Fight
 
-### Maps ###
+## Maps
 
 maps-header-name = Name
 maps-header-region = Region
@@ -237,7 +239,7 @@ maps-row-count =
 maps-row-meandur = {$duration} per map
 maps-row-bestdur = {$duration} per map
 
-### Encounters ###
+## Encounters
 
 encounters-header-name = Encounters
 encounters-header-count = #
@@ -264,14 +266,14 @@ encounters-name-delirium = Delirium
 encounters-name-tane = Tane Octavius
 encounters-name-legion = Legion Generals
 
-### Export TSV Spreadsheet ###
+## Export TSV Spreadsheet
 
 export-tsv-help = Copy and paste the <b>Tab-Separated Values</b> below into your favorite spreadsheet application.
 export-tsv-header-history = History:
 export-tsv-header-maps = Maps:
 export-tsv-header-encounters = Encounters:
 
-### Export Google Sheets ###
+## Export Google Sheets
 
 export-gsheets-beta =
   Beware: Mapwatch's Google Sheets export is new <br>
@@ -288,7 +290,7 @@ export-gsheets-update = Write {$count} maps to spreadsheet id:
 export-gsheets-success = Export successful!
 export-gsheets-success-link = View your spreadsheet.
 
-### Shared utilities ###
+## Shared utilities
 
 util-filter-none = Unhide all maps
 util-filter-league = Hide pre-{-league} maps
@@ -312,4 +314,5 @@ util-goal-exactly = Goal: exactly...
 util-goal-exactly-input =
   .placeholder = "5:00" or "300" or "5m 0s"
 
+# not found
 notfound = 404
