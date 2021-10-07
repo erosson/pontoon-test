@@ -1,0 +1,6 @@
+{
+  "hello": "world",
+  "hello-2": "world2 with dashes",
+  "hello.2": "world2 with dots",
+  "hello2": {"nest": "world2 with nesting"}
+}
